@@ -31,25 +31,21 @@ def initialize():
         --muted:      #6b6b6b;
     }
 
-    /* ── Global ── */
     html, body, .stApp {
         background-color: var(--bg) !important;
         color: var(--text) !important;
         font-family: 'Inter', sans-serif !important;
     }
 
-    /* ── Hide Streamlit chrome ── */
     #MainMenu, footer, header { visibility: hidden; }
     .block-container { padding: 2rem 3rem 4rem !important; max-width: 1200px; }
 
-    /* ── Sidebar ── */
     [data-testid="stSidebar"] {
         background: var(--surface) !important;
         border-right: 1px solid var(--border) !important;
     }
     [data-testid="stSidebar"] * { color: var(--text) !important; }
 
-    /* ── Buttons ── */
     .stButton > button {
         background: transparent !important;
         border: 1px solid var(--accent) !important;
@@ -66,7 +62,6 @@ def initialize():
         color: var(--bg) !important;
     }
 
-    /* ── Expanders ── */
     .stExpander {
         background: var(--surface) !important;
         border: 1px solid var(--border) !important;
@@ -77,7 +72,6 @@ def initialize():
         background: var(--surface2) !important;
     }
 
-    /* ── Alerts ── */
     .stAlert {
         background: var(--surface2) !important;
         border-left: 3px solid var(--accent) !important;
@@ -85,14 +79,12 @@ def initialize():
         border-radius: 4px !important;
     }
 
-    /* ── File uploader ── */
     [data-testid="stFileUploader"] {
         background: var(--surface2) !important;
         border: 1px dashed var(--border) !important;
         border-radius: 4px !important;
     }
 
-    /* ── Headings ── */
     h1 {
         font-size: 4.0rem;
         color: var(--accent);
@@ -123,6 +115,15 @@ def initialize():
 
     if "job_skills" not in st.session_state:
         st.session_state["job_skills"] = None
+
+    if "resume_match_info" not in st.session_state:
+        st.session_state["resume_match_info"] = None
+
+    if "final_score" not in st.session_state:
+        st.session_state["final_score"] = None
+
+    if "skill_category_lists" not in st.session_state:
+        st.session_state["skill_category_lists"] = None
 
 def sidebar_uploads():
     with st.sidebar:
@@ -157,15 +158,22 @@ def sidebar_uploads():
         if analyze_job:
             if uploaded_job_desc and uploaded_resume:
                 with st.spinner("Analyzing..."):
+                    resume_text = extract_text_from_pdf(uploaded_resume)
                     job_text = extract_text_from_pdf(uploaded_job_desc)
+
                     job_skills = extract_skills(job_text)
                     st.session_state["job_skills"] = job_skills
-                    st.session_state["job_analyzed"] = True
 
-                    resume_match_info = calculate_resume_match(resume_text,job_text)
+                    resume_match_info = calculate_resume_match(resume_text, job_text)
+                    st.session_state["resume_match_info"] = resume_match_info
 
                     skill_category_lists = get_final_market_analysis(job_skills, threshold=85)
-                    final_score = RIS_calculator(resume_match_info, skill_category_lists)
+                    st.session_state["skill_category_lists"] = skill_category_lists
+
+                    final_score = RIS_calculator(resume_match_info["resume_skills"], skill_category_lists)
+                    st.session_state["final_score"] = final_score
+
+                    st.session_state["job_analyzed"] = True
 
             elif uploaded_job_desc and not uploaded_resume:
                 st.warning("You need to upload your resume too!")
@@ -185,8 +193,24 @@ def render_dashboard():
 
     with st.expander("Resume vs. Job Description Analytics", expanded=False):
         if st.session_state["job_analyzed"]:
-            # Bottom section — job match
-            pass
+            info = st.session_state["resume_match_info"]
+            final_score = st.session_state["final_score"]
+
+            col1, col2 = st.columns(2)
+            with col1:
+                st.metric("Match Score", f"{info['resume_match']}%")
+            with col2:
+                st.metric("Final RIS Score", f"{final_score}%")
+
+            col3, col4 = st.columns(2)
+            with col3:
+                st.markdown("**Matched Skills**")
+                matched_df = pd.DataFrame(info["matched_core_skills"], columns=["Skill", "Confidence"])
+                st.dataframe(matched_df, use_container_width=True)
+            with col4:
+                st.markdown("**Missing Skills**")
+                missing_df = pd.DataFrame(info["missing_core_skills"], columns=["Skill", "Confidence"])
+                st.dataframe(missing_df, use_container_width=True)
         else:
             st.info("Upload and analyze a job description to see results here.")
 
