@@ -162,10 +162,10 @@ def sidebar_uploads():
                     st.session_state["job_skills"] = job_skills
                     st.session_state["job_analyzed"] = True
 
-                    resume_skills, matched_skills, missing_skills, match_score = calculate_resume_match(resume_text,job_text)
+                    resume_match_info = calculate_resume_match(resume_text,job_text)
 
                     skill_category_lists = get_final_market_analysis(job_skills, threshold=85)
-                    final_score = RIS_calculator(matched_skills, missing_skills, skill_category_lists)
+                    final_score = RIS_calculator(resume_match_info, skill_category_lists)
 
             elif uploaded_job_desc and not uploaded_resume:
                 st.warning("You need to upload your resume too!")

@@ -15,10 +15,11 @@ def calculate_resume_match(resume_text, job_text):
     else:
         match_score = round((len(matched_skills) / len(job_skills)))
 
-    
-    return {
+    resume_match_info = {
         "resume_skills": resume_skills,
         "matched_core_skills": matched_skills,
         "missing_core_skills": missing_skills,
         "resume_match": match_score,
     }
+
+    return resume_match_info
