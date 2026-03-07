@@ -4,6 +4,8 @@ import matplotlib.pyplot as plt
 
 from pdf_ingestion import extract_text_from_pdf
 from skill_extraction import extract_skills, ROLES
+from resume_matcher import calculate_resume_match
+from analyze_job_skills import get_final_market_analysis
 
 def initialize():
     st.set_page_config(
@@ -152,14 +154,21 @@ def sidebar_uploads():
         analyze_job = st.button("Analyze Job")
 
         if analyze_job:
-            if uploaded_job_desc:
+            if uploaded_job_desc and uploaded_resume:
                 with st.spinner("Analyzing..."):
                     job_text = extract_text_from_pdf(uploaded_job_desc)
                     job_skills = extract_skills(job_text)
                     st.session_state["job_skills"] = job_skills
                     st.session_state["job_analyzed"] = True
+
+                    resume_skills, matched_skills, missing_skills, match_score = calculate_resume_match(resume_text,job_text)
+
+                    skill_category_lists = get_final_market_analysis(job_skills, threshold=85)
+
+            elif uploaded_job_desc and not uploaded_resume:
+                st.warning("You need to upload your resume too!")
             else:
-                st.warning("You need to upload your job description first")
+                st.warning("You need to upload your job description")
 
         if st.session_state["job_analyzed"]:
             st.success("Job description analyzed!")
