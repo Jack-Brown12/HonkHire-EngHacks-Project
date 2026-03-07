@@ -1,126 +1,456 @@
-E-commerce web design UX/UI design Shopping cart integration Payment gateway integration Mobile responsiveness E-commerce platforms (e.g., Shopify): 0.21%
-Treasury management Cash flow analysis Risk management Financial forecasting Banking relations: 0.21%
-Counseling techniques Psychotherapy Mental health assessment Treatment planning Crisis intervention Ethical standards Empathy and active listening Cultural competence Documentation Communication skills Self-care Licensing and certification: 0.21%
-Instructional design eLearning tools Curriculum development Multimedia design Learning theory knowledge: 0.21%
-Account management Client relations Marketing strategies Campaign optimization Data analysis Communication skills: 0.21%
-Sustainability consulting Sustainability assessments Sustainable practices Green building standards Environmental policies Client communication: 0.21%
-Data quality assessment and improvement Data profiling and validation Knowledge of data quality tools (e.g., Informatica, Talend) Data governance principles SQL for data analysis Attention to detail and data accuracy: 0.21%
-Solution design Technical architecture Cloud computing and software development knowledge: 0.21%
-Database design and development SQL and database querying Data modeling Programming languages (e.g., Java, Python) Data security and privacy regulations knowledge: 0.21%
-Wireless network design and architecture Wi-Fi standards and protocols RF (Radio Frequency) planning and optimization Wireless security protocols Troubleshooting wireless network issues: 0.21%
-Accounting Financial reporting Financial audits Tax compliance Accounting software (e.g., SAP, Oracle) GAAP (Generally Accepted Accounting Principles): 0.21%
-Research methodology Data analysis Psychological studies Writing research reports Critical thinking: 0.21%
-Exotic animal medicine Exotic animal diagnostics Specialized surgical skills Avian medicine Reptile care Amphibian care Exotic animal anesthesia Compassion and empathy Client communication Problem-solving Attention to detail: 0.21%
-Frontend web development HTML/CSS Responsive design User interface (UI) design Adobe Creative Suite Collaboration skills: 0.21%
-Email marketing strategies Email marketing platforms (e.g., MailChimp, HubSpot) Audience segmentation A/B testing Campaign analytics Copywriting HTML/CSS for email Marketing automation Communication skills Data analysis Attention to detail: 0.21%
-Financial planning Investment strategy Retirement planning Tax knowledge: 0.21%
-Pediatric rehabilitation Developmental assessments Child psychology knowledge: 0.21%
-Mental health assessment and evaluation Psychotherapy techniques Cognitive-behavioral therapy (CBT) Trauma-informed care Crisis intervention Substance abuse treatment Group therapy Cultural competence Ethical standards and boundaries Active listening skills: 0.21%
-Partnership development Negotiation and collaboration Business development: 0.21%
-Business process analysis Requirement gathering Data analysis Communication skills: 0.21%
-Live chat support Online customer communication Problem resolution: 0.21%
-Environmental impact analysis Data collection and analysis Environmental regulations Reporting GIS (Geographic Information Systems) Technical writing: 0.21%
-Search engine marketing (SEM) Google Ads Bing Ads Keyword analysis Ad performance analysis SEM strategy development Bid management: 0.21%
-Clinical psychology Counseling skills Assessment tools Diagnostic skills Empathy and listening skills: 0.21%
-Server-side programming (e.g., Node.js, Python) Database management (e.g., SQL, MongoDB): 0.21%
-Operations management Strategic planning and execution Budgeting and financial analysis Leadership and team management Process improvement and optimization: 0.21%
-Financial planning Investment knowledge Relationship management Communication skills Analytical skills: 0.21%
-Technical writing Documentation User manuals Technical specifications Industry-specific terminology Research skills: 0.21%
-Engineering design CAD software proficiency Problem-solving Technical knowledge Communication skills: 0.21%
-Test planning and strategy Test case design and execution Defect reporting and tracking Test automation tools (e.g., Selenium, Appium) Regression testing: 0.21%
-Equine veterinary medicine Horse anatomy and physiology Lameness evaluation Equine surgery Dentistry for horses Emergency equine care Equine reproductive health Compassion and empathy Client communication Problem-solving Attention to detail: 0.21%
-Key account management Relationship building Sales negotiation: 0.21%
-Brand strategy development Brand identity and design Brand storytelling Marketing campaigns Brand performance measurement Creative thinking Strong communication skills: 0.21%
-Art history and knowledge Art curation and exhibition planning Collections management Art market trends Cultural awareness: 0.21%
-Cloud computing platforms (AWS, Azure, etc.) Cloud security Containerization (Docker, Kubernetes): 0.21%
-Nursing leadership Charge nurse responsibilities Team coordination: 0.21%
-Nursing management Patient care coordination Staff supervision Compliance with healthcare regulations Quality improvement Leadership skills: 0.21%
-Digital marketing strategy Marketing analytics Team leadership Content marketing SEO and SEM proficiency: 0.21%
-Child welfare policies and regulations Child protective services Child development Crisis intervention Case management Cultural competence Interviewing and assessment skills Court procedures Documentation Empathy Communication skills: 0.21%
-Sustainable landscape design Native plant selection Water conservation Soil health Green building practices LEED certification: 0.21%
-Event planning and management Budgeting and financial management Vendor and sponsor relations Promotion and publicity Event logistics and coordination skills: 0.21%
-Machine learning algorithms Python programming Data preprocessing Deep learning Model evaluation: 0.21%
-Strategic HR planning Employee relations Talent management HR policy development Leadership skills: 0.21%
-Administrative support Calendar management Communication skills Time management Organizational skills Confidentiality: 0.21%
-Marketing communication Public relations Content strategy Crisis management Media relations: 0.21%
-Nursing care Patient assessment Medical knowledge: 0.21%
-Financial reporting Accounting software (e.g., QuickBooks) Auditing GAAP knowledge: 0.21%
-Agile product development Scrum or Kanban frameworks Backlog management User story writing Prioritization techniques Collaboration with development teams Product vision and strategy: 0.21%
-Pediatric speech therapy Speech-language assessment Individualized treatment plans Child development Communication skills: 0.21%
-Quality assurance Process improvement Team leadership Problem-solving Quality control: 0.21%
-Healthcare industry knowledge Health data analysis HIPAA regulations EMR systems: 0.21%
-Writing skills Content creation SEO knowledge Research skills Grammar and proofreading: 0.21%
-Sales management Sales strategy development Team leadership: 0.21%
-Technical troubleshooting Customer support tools (e.g., Zendesk, Freshdesk) Communication skills Problem-solving and critical thinking Ticket management Knowledge base creation: 0.21%
-Product management principles Technical background Agile development methodologies Product roadmap planning Market research and analysis Stakeholder communication Problem-solving skills: 0.21%
-Urban planning Zoning regulations Environmental planning GIS proficiency Community engagement: 0.21%
-Sustainability practices Environmental management systems Green certifications: 0.21%
-Child custody law Family law Legal advocacy Negotiation Court representation Legal research Client counseling Case preparation: 0.21%
-Addiction recovery support Motivational interviewing Relapse prevention strategies: 0.21%
-Systems integration Integration architecture Data mapping Middleware technologies API integration System testing Troubleshooting: 0.21%
-Procurement processes Purchase order management Vendor communication Data analysis Inventory control: 0.21%
-Electronics design PCB layout Embedded systems Circuit analysis Troubleshooting: 0.21%
-PCB design Electronics PCB layout software proficiency Circuit design Quality control: 0.21%
-Market expansion strategies Market research Sales planning and execution: 0.21%
-Construction management Budgeting Contract negotiation Safety regulations: 0.21%
-Web design concepts Graphic design software (e.g., Adobe Creative Suite) HTML and CSS Responsive design User interface (UI) principles Visual communication Typography Color theory Creativity Attention to detail Collaboration: 0.21%
-Medical diagnosis Patient care Medical record-keeping Communication skills Empathy and compassion: 0.21%
-Quality control processes Quality assurance standards (e.g., ISO) Statistical analysis Inspection techniques Documenting quality issues Root cause analysis Communication with production teams Problem-solving Attention to detail Technical knowledge: 0.21%
-Interior design Space planning Color theory Material selection CAD software (e.g., SketchUp) Client collaboration Budget management: 0.21%
-International tax law knowledge Transfer pricing Cross-border tax planning Tax treaties and agreements Foreign tax credits International tax compliance Transfer pricing documentation Multinational tax strategies Client relationship management Communication skills Tax software proficiency: 0.21%
-Mergers and acquisitions (M&A) expertise Due diligence Valuation techniques: 0.21%
-Procurement Supplier management Negotiation Supply chain management Inventory control Vendor relations: 0.21%
-Residential interior design Space planning Color theory and selection Furniture and materials selection 3D modeling and rendering: 0.21%
-Technical SEO audits Website crawl analysis Schema markup XML sitemaps Canonicalization: 0.21%
-Avionics systems Electronic warfare systems Radar systems Aircraft communication systems System integration Testing and validation: 0.21%
-School psychology Special education knowledge Assessment and testing Individualized education plans Collaboration skills: 0.21%
-Administrative leadership Office management Staff supervision Budgeting and financial management Process improvement Communication skills: 0.21%
-Knowledge of court procedures Legal document management Attention to detail Computer literacy Organization skills: 0.21%
-NoSQL databases (e.g., MongoDB, Cassandra) Data modeling Data migration Performance tuning Scalability Distributed systems: 0.21%
-Content strategy Content creation Blog management Content promotion SEO Analytics and reporting: 0.21%
-Chemical engineering Process design Chemical reactions Safety protocols Laboratory techniques Problem-solving skills: 0.21%
-Negotiation skills Vendor management Supply chain knowledge Contract management Analytical skills: 0.21%
-Art education curriculum Program development Teacher training Communication skills Artistic expertise: 0.21%
-Sales training Sales coaching Training program development Sales techniques Product knowledge Presentation skills: 0.21%
-Landscape architecture Site planning Plant selection Environmental sustainability AutoCAD Project management: 0.21%
-Copywriting Content creation SEO Marketing strategies Creativity: 0.21%
-Database security measures Data encryption and access control Security compliance Vulnerability assessment Database auditing and monitoring: 0.21%
-Sales strategies Customer relationship management Sales techniques Product knowledge Client acquisition Negotiation skills: 0.21%
-Account management Client relationship Sales strategy Business development Negotiation skills: 0.21%
-HR policies and procedures Employee relations Recruitment Communication skills: 0.21%
-Talent sourcing Interviewing Onboarding Recruitment strategies HR software: 0.21%
-Social media marketing strategy development Content planning and creation Social media advertising and targeting Data-driven decision-making Social media trends and platform updates: 0.21%
-Medical product knowledge Understanding of healthcare regulations Relationship building with healthcare professionals Sales forecasting and planning Medical sales techniques: 0.21%
-Knowledge of HVAC systems and equipment Mechanical engineering skills Problem-solving abilities AutoCAD proficiency HVAC design and installation expertise: 0.21%
-Data analysis Database querying and reporting Data visualization SQL proficiency Data quality assurance: 0.21%
-ETL (Extract, Transform, Load) processes Data integration SQL and scripting languages: 0.21%
-Customer experience strategy Customer journey mapping Feedback analysis User research Metrics and KPIs Communication skills: 0.21%
-Research and development processes Product innovation Prototype development Testing and experimentation Data analysis Collaboration with cross-functional teams Problem-solving Attention to detail Technical expertise Project management skills: 0.21%
-Corporate law and regulations Contract drafting and negotiation Legal research and analysis Risk management Excellent communication and negotiation skills: 0.21%
-Nursing education Curriculum development Clinical instruction Assessment and evaluation Educational technology Communication skills: 0.21%
-Recruitment process Candidate screening Applicant tracking systems Communication: 0.21%
-Project management Communication Time management Organization Problem-solving: 0.21%
-Construction management Structural design AutoCAD proficiency Project management Site inspection: 0.21%
-Data analysis Data modeling Data visualization SQL Data tools (e.g., Tableau): 0.21%
-Structural engineering principles Structural analysis and design software (e.g., AutoCAD, SAP2000) Building codes and standards Project management Structural integrity assessment: 0.21%
-Computer-aided design (CAD) software Technical drawing Blueprint interpretation Drafting standards Engineering principles Collaboration with engineers Problem-solving Attention to detail Communication skills 3D modeling (if applicable): 0.21%
-Control system design PLC programming Automation Instrumentation System integration: 0.21%
-HVAC system design Load calculations Energy efficiency AutoCAD or similar software Mechanical engineering principles Collaboration with architects and engineers Regulatory compliance Problem-solving Attention to detail Communication skills: 0.21%
-Financial management Budgeting Financial analysis Financial reporting Risk management Financial software (e.g., Excel, QuickBooks) Strategic planning: 0.21%
-Architectural drafting AutoCAD 2D and 3D modeling Blueprint reading Building codes Collaboration with architects Detail-oriented: 0.21%
-Email deliverability best practices Spam filter testing List hygiene Blacklist monitoring Email authentication (e.g., SPF, DKIM) Deliverability metrics analysis Troubleshooting deliverability issues Communication skills Data analysis Attention to detail: 0.21%
-Dental hygiene knowledge Teaching and instructional skills Curriculum development Student assessment Clinical practice experience: 0.21%
-Financial planning Investment strategies Team leadership Wealth management Client advisory skills: 0.21%
-Environmental assessments Regulatory compliance Environmental impact analysis: 0.21%
-Environmental design principles Sustainability concepts CAD and design software: 0.21%
-Employee conflict resolution HR compliance Employee engagement Communication skills: 0.21%
-Technical SEO Website audits SEO tools (e.g., Screaming Frog, Ahrefs) Schema markup Site speed optimization XML sitemaps Canonicalization: 0.21%
-Transportation engineering Traffic analysis and planning Civil engineering software (e.g., MicroStation, AutoCAD Civil 3D) Roadway design Public transportation knowledge: 0.21%
-Wedding design concepts Decor selection and arrangement Creative flair: 0.21%
-Search engine marketing PPC advertising SEO strategy Data analysis Digital marketing skills: 0.21%
-Frontend and backend development Database integration Problem-solving API knowledge: 0.21%
-Inventory management Stock control Demand forecasting Inventory tracking systems Supply chain coordination Problem-solving skills: 0.21%
-Budget planning Financial forecasting Excel proficiency Data analysis: 0.21%
-Clinical nursing Patient assessment Care planning Staff development Healthcare protocols Communication skills Problem-solving abilities: 0.21%
-Social science research methods Qualitative and quantitative data analysis Survey design and implementation Ethnographic research Interviewing skills Research ethics Statistical software (e.g., Stata, NVivo) Report writing Communication skills Critical thinking Empathy: 0.21%
-Google Ads management PPC campaign optimization Keyword research Ad copywriting A/B testing Conversion tracking: 0.20%
+wpf: 1.22%
+asp.net mvc: 0.86%
+sql server: 4.98%
+asp.net: 3.12%
+html5: 2.89%
+database design: 0.95%
+software implementation: 0.51%
+software testing: 4.17%
+software deployment: 0.62%
+testing: 3.74%
+scala: 4.26%
+kafka: 4.43%
+open source frameworks: 3.08%
+microsoft azure: 3.04%
+google cloud: 1.90%
+agile practices: 2.07%
+vue.js: 2.13%
+html/css: 2.39%
+analysis: 0.70%
+programming: 1.65%
+documentation: 2.54%
+troubleshooting: 3.57%
+design: 1.93%
+coding: 1.38%
+project management: 3.40%
+leadership: 3.35%
+cloud services: 1.79%
+nosql databases: 1.68%
+distributed microservices: 0.77%
+full stack systems: 0.65%
+configuration management: 1.09%
+version control: 2.10%
+microsoft sql server: 0.77%
+communication skills: 3.22%
+critical thinking: 1.01%
+fpga: 0.79%
+development: 0.74%
+debugging: 4.33%
+software development life cycle: 1.49%
+algorithms: 4.25%
+best practices: 0.57%
+electrical engineering: 2.45%
+computer engineering: 2.41%
+systems engineering: 0.93%
+physics: 0.60%
+bash: 2.33%
+perl: 1.32%
+vmware: 0.55%
+containerization: 1.60%
+agile methodology: 1.68%
+requirements analysis: 0.71%
+virtualization: 2.15%
+data integration: 0.52%
+scripting: 0.81%
+junit: 2.00%
+restful api: 1.13%
+gradle: 1.35%
+maven: 1.89%
+spring boot: 4.25%
+mongodb: 4.17%
+agile methodologies: 1.89%
+android: 2.53%
+selenium: 1.81%
+wifi: 1.01%
+bluetooth: 0.51%
+software design patterns: 0.57%
+data structures: 4.39%
+analytical skills: 1.99%
+windows: 3.75%
+matlab: 1.78%
+test plans: 0.74%
+realtime operating systems: 0.76%
+cyber security: 0.82%
+embedded systems: 3.14%
+iot: 1.25%
+node: 1.99%
+databases: 2.76%
+nodejs: 2.29%
+opensource frameworks: 0.88%
+rdbms: 1.30%
+backend development: 1.71%
+autosar: 0.54%
+software design: 4.68%
+problem solving: 4.26%
+root cause analysis: 0.76%
+full stack development: 1.71%
+automation: 2.13%
+engineering: 1.51%
+problemsolving: 3.76%
+blazor: 0.72%
+tableau: 0.62%
+integration testing: 3.41%
+performance optimization: 0.98%
+security: 3.00%
+compliance: 0.58%
+azure devops: 2.79%
+salesforce: 0.67%
+objectoriented programming: 3.91%
+web technologies: 0.51%
+apis: 2.12%
+jquery: 2.47%
+continuous integration: 4.83%
+team leadership: 0.68%
+autonomy: 0.51%
+saas: 1.29%
+rest api: 1.77%
+data visualization: 1.10%
+agile/scrum: 0.76%
+nunit: 0.65%
+rest: 4.61%
+tsql: 1.25%
+design patterns: 3.80%
+.net core: 3.84%
+azure sql: 0.54%
+redis: 3.21%
+tdd: 2.56%
+bdd: 1.09%
+mobile development: 1.02%
+oauth: 0.85%
+restful apis: 4.04%
+ruby on rails: 1.44%
+software development lifecycle: 1.65%
+can: 1.25%
+doors: 0.65%
+redux: 1.25%
+express: 0.61%
+collaboration: 3.69%
+teamwork: 3.39%
+cloud: 1.36%
+system architecture: 0.95%
+oop: 1.68%
+qt: 0.82%
+entity framework: 1.71%
+visual studio: 2.44%
+solid principles: 0.69%
+artificial intelligence: 1.96%
+computer vision: 1.08%
+rtos: 1.33%
+.net framework: 1.86%
+waterfall: 0.62%
+reactjs: 1.76%
+uml: 1.12%
+bitbucket: 2.38%
+angularjs: 1.25%
+sdlc: 1.73%
+xml: 3.39%
+protocols: 0.51%
+ios: 1.62%
+firmware: 0.69%
+microsoft office: 0.59%
+rust: 2.46%
+performance: 1.09%
+scalability: 2.32%
+reliability: 0.91%
+oracle: 3.29%
+data analysis: 2.89%
+data processing: 0.65%
+operating systems: 2.01%
+networking: 4.02%
+robotics: 1.43%
+optimization: 0.62%
+c/c++: 4.29%
+json: 4.16%
+r: 0.57%
+big data: 1.73%
+data science: 2.10%
+data analytics: 2.37%
+ui/ux design: 0.61%
+adaptability: 0.79%
+multitasking: 0.83%
+terraform: 4.51%
+circleci: 0.64%
+grpc: 1.20%
+graphql: 2.59%
+etl: 0.97%
+ruby: 2.44%
+containers: 1.72%
+pxe: 0.52%
+dhcp: 1.12%
+tftp: 0.53%
+dns: 0.92%
+ntp: 0.51%
+storage: 0.90%
+infrastructure: 0.71%
+launchpad: 0.51%
+snapcraft: 0.50%
+kernel: 0.88%
+arm: 0.79%
+golang: 3.86%
+shell: 0.53%
+debian: 0.92%
+ubuntu: 1.68%
+graphics: 0.71%
+api design: 1.54%
+php: 3.09%
+openstack: 1.64%
+programming languages: 1.34%
+gdb: 0.68%
+mongo: 0.86%
+debian packaging: 0.55%
+kotlin: 3.54%
+api development: 1.23%
+gitlab: 2.59%
+devsecops: 1.47%
+swagger: 0.60%
+cybersecurity: 1.22%
+architecture: 1.08%
+computer networking: 0.60%
+code reviews: 1.96%
+j2ee: 0.83%
+springboot: 0.93%
+lambda: 2.04%
+s3: 2.31%
+ec2: 1.08%
+cucumber: 0.60%
+cypress: 0.96%
+amazon web services: 0.71%
+google cloud platform: 1.26%
+code review: 1.81%
+mentoring: 2.68%
+software architecture: 4.28%
+monitoring: 1.22%
+alerting: 0.62%
+product management: 1.78%
+data engineering: 1.00%
+web applications: 0.92%
+crossfunctional collaboration: 0.84%
+quality assurance: 1.39%
+attention to detail: 1.10%
+tensorflow: 0.72%
+pytorch: 0.61%
+cloud platforms: 1.19%
+natural language processing: 0.87%
+implementation: 0.71%
+vue: 1.47%
+technical writing: 1.28%
+software maintenance: 1.10%
+react.js: 1.43%
+web development: 2.88%
+ceph: 0.98%
+kvm: 0.71%
+lxc: 0.50%
+lxd: 0.93%
+rpm: 0.60%
+yocto: 0.86%
+open source: 1.88%
+k8s: 0.51%
+tcp/ip: 1.82%
+http: 1.06%
+apache: 0.83%
+snaps: 0.51%
+maas: 0.59%
+juju: 0.63%
+fullstack development: 1.38%
+product development: 1.03%
+team collaboration: 0.76%
+cloud architecture: 0.50%
+remote work: 0.87%
+mvc: 2.08%
+agile software development: 1.45%
+scripting languages: 0.69%
+people management: 1.02%
+postgres: 2.70%
+unix: 2.21%
+written communication: 0.72%
+organizational skills: 0.64%
+react native: 1.23%
+stored procedures: 0.51%
+cloud technologies: 1.10%
+next.js: 0.70%
+github: 4.13%
+system design: 1.89%
+frontend development: 1.82%
+slack: 1.03%
+functional programming: 0.79%
+cassandra: 1.89%
+innovation: 0.59%
+data management: 0.74%
+data modeling: 1.29%
+data warehousing: 0.60%
+soap: 1.72%
+risk management: 0.65%
+powershell: 1.61%
+technical documentation: 0.79%
+hadoop: 1.04%
+system integration: 0.61%
+computer architecture: 0.59%
+stem: 0.54%
+microservices architecture: 0.78%
+microcontrollers: 0.82%
+embedded software development: 1.07%
+c programming: 0.86%
+web services: 2.40%
+rest apis: 2.71%
+requirements gathering: 0.63%
+spring framework: 1.08%
+hibernate: 1.20%
+continuous deployment: 1.15%
+api: 1.93%
+spark: 1.60%
+data pipelines: 1.00%
+apache spark: 1.03%
+relational databases: 3.09%
+maintenance: 0.61%
+analytics: 1.16%
+business analysis: 0.51%
+ui/ux: 0.58%
+objectoriented design: 2.19%
+system testing: 0.87%
+ethernet: 0.97%
+realtime systems: 0.65%
+spi: 1.19%
+software documentation: 0.65%
+version control systems: 0.60%
+npm: 0.63%
+microservice architecture: 0.55%
+web components: 0.50%
+acceptance testing: 0.51%
+cuda: 0.61%
+image processing: 0.55%
+multithreaded programming: 0.52%
+cloudformation: 0.91%
+ansible: 2.20%
+puppet: 0.64%
+multithreading: 1.08%
+databricks: 0.60%
+testdriven development: 1.65%
+interpersonal skills: 1.00%
+relational database: 0.50%
+deployment: 1.04%
+technical leadership: 0.79%
+concurrency: 0.70%
+elasticsearch: 2.33%
+coding standards: 1.06%
+restful: 0.94%
+rabbitmq: 1.23%
+css3: 1.59%
+cloud infrastructure: 0.66%
+flask: 0.93%
+spring: 2.58%
+shell scripting: 0.74%
+continuous delivery: 1.78%
+pl/sql: 0.57%
+api gateway: 0.83%
+bootstrap: 1.40%
+performance testing: 1.15%
+sso: 0.54%
+figma: 0.50%
+kanban: 2.49%
+asp.net core: 0.50%
+automated testing: 2.27%
+swift: 1.27%
+appium: 0.53%
+espresso: 0.70%
+memory management: 0.50%
+integration: 1.01%
+source control: 1.09%
+deep learning: 0.65%
+laravel: 0.72%
+postman: 0.77%
+soa: 0.57%
+flutter: 0.57%
+caching: 0.54%
+test automation: 1.71%
+svn: 1.29%
+jest: 1.19%
+ci/cd pipelines: 0.85%
+sass: 0.84%
+ai: 1.77%
+testdriven development (tdd): 0.57%
+github actions: 1.12%
+django: 1.92%
+embedded software: 1.15%
+udp: 0.57%
+software quality assurance: 0.77%
+chef: 0.71%
+functional testing: 1.07%
+regression testing: 0.64%
+uart: 0.67%
+i2c: 1.07%
+labview: 0.64%
+eclipse: 0.85%
+database: 0.93%
+cryptography: 0.85%
+android studio: 0.83%
+snowflake: 0.80%
+iam: 0.58%
+software integration: 1.10%
+time management: 1.19%
+telecommunications: 0.78%
+hardware: 0.64%
+prioritization: 0.61%
+mathematics: 0.72%
+user experience: 0.67%
+bamboo: 1.18%
+tomcat: 0.61%
+ajax: 1.09%
+test driven development: 1.12%
+data security: 0.55%
+nginx: 0.51%
+webpack: 0.94%
+asynchronous programming: 0.50%
+ecs: 0.78%
+rds: 0.69%
+apache kafka: 0.90%
+aws cloud: 0.78%
+aws lambda: 0.51%
+dynamodb: 1.56%
+safe: 0.59%
+patent law: 0.60%
+network protocols: 0.74%
+network security: 0.97%
+patent prosecution: 0.66%
+enterprise applications: 0.64%
+software user interfaces: 0.81%
+simulation: 0.51%
+software engineer: 0.98%
+performance tuning: 0.58%
+agile scrum: 0.55%
+ms sql server: 0.72%
+blockchain: 0.97%
+vb.net: 0.55%
+problemsolving skills: 0.91%
+restful web services: 0.74%
+object oriented programming: 0.83%
+datadog: 0.97%
+hipaa: 0.51%
+simulink: 0.69%
+artifactory: 0.66%
+web api: 0.98%
+tfs: 0.80%
+verbal communication: 0.67%
+serverless: 0.50%
+generative ai: 0.63%
+source control management: 0.50%
+operations: 0.55%
+sns: 0.52%
+sqs: 0.91%
+pair programming: 0.64%
+refactoring: 0.50%
+observability: 0.54%
+mvvm: 0.51%
+splunk: 0.82%
+openshift: 0.52%
+infrastructure as code: 0.71%
+db2: 0.52%
+firebase: 0.82%
+eventdriven architecture: 0.65%
+user interface design: 0.54%
+software development life cycle (sdlc): 0.68%
+vxworks: 0.51%
+embedded linux: 0.79%
+prometheus: 0.52%
+grafana: 0.70%
+unix/linux: 0.53%
+3d graphics: 0.62%

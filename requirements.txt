@@ -1,2 +1,6 @@
 kagglehub
 pandas
+spacy
+rapidfuzz
+sentence_transformers
+python3 -m spacy download en_core_web_sm

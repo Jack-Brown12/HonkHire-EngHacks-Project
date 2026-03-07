@@ -1,125 +1,22 @@
-Interaction design principles User behavior and psychology Wireframing and prototyping tools Animation and micro-interaction design Collaborative design processes: 1.27%
-Network management Troubleshooting Network security IT certifications (e.g., CCNA): 1.08%
-UI design principles and best practices Graphic design tools (e.g., Adobe Photoshop, Illustrator) Typography and color theory Visual design and layout Responsive design: 0.87%
-Social media platforms (e.g., Facebook, Twitter, Instagram) Content creation and scheduling Social media analytics and insights Community engagement Paid social advertising: 0.86%
-User-centered design principles UX/UI design tools (e.g., Sketch, Adobe XD) Wireframing and prototyping Usability testing and user research Information architecture and user flows: 0.86%
-Procurement processes Vendor assessment Contract negotiation Purchase order management Spend analysis Market research Supplier relationship management Data analysis Problem-solving Attention to detail Communication skills Financial acumen: 0.85%
-Social media analytics tools (e.g., Google Analytics, Facebook Insights) Data analysis and reporting Social media ROI measurement Competitive analysis Trend identification: 0.66%
-Quality assurance processes Testing methodologies (e.g., manual, automated) Bug tracking and reporting Test case development Regression testing: 0.65%
-Search engine algorithms and ranking factors Keyword research and analysis On-page and off-page SEO optimization SEO tools (e.g., Google Analytics, SEMrush) SEO content strategy: 0.65%
-Calendar management Travel coordination Meeting scheduling Correspondence and communication Office organization Confidentiality Time management Problem-solving Attention to detail Communication skills Technology proficiency (e.g., MS Office): 0.65%
-Database management systems (e.g., MySQL, Oracle, SQL Server) Data security Database tuning and optimization Backup and recovery: 0.65%
-Procurement strategies Supplier management Negotiation Cost analysis Supply chain management: 0.64%
-Data analysis tools (e.g., SQL, Python) Data visualization tools (e.g., Tableau, Power BI) Statistical analysis Data cleansing and transformation Data modeling Communication of data insights Problem-solving Attention to detail Business acumen: 0.64%
-Proficiency in one or more backend programming languages (e.g., Java, Python, Node.js, Ruby) API development Database management (SQL or NoSQL) Server management and deployment Security best practices Knowledge of web frameworks (e.g., Express, Django): 0.64%
-Demand forecasting Inventory management Data analysis Sales and operations planning (S&OP) ERP software proficiency: 0.64%
-Office administration and management Budgeting and expense tracking Team coordination and supervision Facility management Vendor and supplier relations: 0.64%
-Customer relationship management Onboarding and training Customer feedback analysis Retention strategies Cross-selling and upselling Strong communication and empathy Customer advocacy: 0.64%
-Proficiency in HTML, CSS, and JavaScript Experience with frontend frameworks like React, Angular, or Vue.js Responsive web design Cross-browser compatibility Version control (e.g., Git) Frontend performance optimization: 0.64%
-Retirement planning Social security Investment products Tax planning Estate planning: 0.64%
-Sales strategy and planning Account management Customer relationship management Solution selling Sales forecasting Contract negotiation Sales metrics and reporting: 0.44%
-Sales prospecting and lead generation Sales presentation and communication CRM software (e.g., Salesforce) Sales negotiation and closing techniques Product knowledge Relationship building: 0.44%
-User experience (UX) design User interface (UI) design Wireframing and prototyping Usability testing Design tools like Sketch or Figma: 0.43%
-Network security protocols Intrusion detection and prevention Security incident response Firewall administration Vulnerability assessment Security policies and procedures Log analysis Ethical hacking Problem-solving Communication skills Attention to detail: 0.43%
-Legal research Document drafting Case management E-filing Legal databases (e.g., LexisNexis) Client communication Deposition preparation Trial support Ethics and confidentiality Attention to detail Communication skills Legal software proficiency: 0.43%
-Training program coordination Training material development Learning management systems: 0.43%
-Event planning Vendor coordination Budget management Marketing and promotion Logistics: 0.43%
-Organizational and time management skills Calendar and appointment management Communication and correspondence Travel coordination Discretion and confidentiality: 0.43%
-Sustainable design principles Energy efficiency LEED certification Green building materials Environmental impact assessment: 0.43%
-Machine learning algorithms and libraries (e.g., scikit-learn, TensorFlow, PyTorch) Statistical analysis and modeling Data preprocessing and cleaning Big data technologies (e.g., Hadoop, Spark) Data visualization Strong programming skills (Python, R): 0.43%
-Customer service Problem-solving Communication skills Ticketing system usage Product knowledge: 0.43%
-System administration Server maintenance Active Directory Backup and recovery Cloud computing (e.g., AWS, Azure) Troubleshooting IT security best practices Collaboration Problem-solving Attention to detail Communication skills Technical knowledge: 0.43%
-Data entry accuracy and speed Database software (e.g., Microsoft Access, Excel) Attention to detail Time management Organization Multitasking Keyboarding skills Data verification Problem-solving Communication skills Computer proficiency: 0.43%
-Manufacturing processes knowledge CAD/CAM software proficiency Lean manufacturing principles Quality control and assurance Six Sigma certification: 0.43%
-Landscape design Plant selection and care Hardscape design: 0.43%
-Account management Sales strategy Negotiation and closing skills: 0.43%
-Project management Team leadership Risk management Budgeting Communication skills: 0.43%
-Investment management Financial analysis Risk assessment Asset allocation Portfolio optimization: 0.43%
-Content strategy Content planning SEO optimization Content marketing Analytics: 0.43%
-Product positioning and messaging Market research and analysis Product launch planning Competitive analysis Marketing collateral creation Pricing strategies Cross-functional collaboration: 0.43%
-Inventory control Demand forecasting Supply chain management Data analysis Warehouse management: 0.43%
-Data analysis and visualization tools (e.g., Tableau, Power BI) SQL and database querying Business intelligence concepts Data modeling and reporting Strong analytical and problem-solving skills Data-driven decision-making: 0.43%
-Market research methodologies Data collection and analysis Industry knowledge: 0.43%
-Supply chain logistics and management Inventory control and procurement Supplier relationship management Data analysis and forecasting Risk assessment and mitigation: 0.43%
-Water resources engineering Hydrology and hydraulics Environmental impact assessment Water resource modeling software Watershed management: 0.43%
-Supply chain logistics Inventory management Communication skills Problem-solving Vendor coordination: 0.43%
-Automation and scripting (e.g., Python, Bash) Continuous Integration/Continuous Deployment (CI/CD) Containerization (e.g., Docker, Kubernetes) Infrastructure as Code (e.g., Terraform, Ansible) Cloud platforms (e.g., AWS, Azure, GCP) Monitoring and troubleshooting skills: 0.43%
-Client relationship management Customer service Communication skills: 0.43%
-Investment strategies Portfolio management Financial planning Risk assessment Regulatory compliance: 0.43%
-Financial analysis Data analysis Financial modeling: 0.43%
-Wedding planning Venue selection Catering and menu planning Floral and decor design Wedding etiquette: 0.43%
-Front-end web development HTML, CSS, JavaScript Responsive design Web performance optimization Cross-browser compatibility: 0.43%
-Family law Divorce proceedings Child custody Mediation Legal counseling Court representation: 0.43%
-Content creation (e.g., writing, editing, graphic design, video production) Content marketing Social media management SEO optimization Creative storytelling Audience engagement Analytics and reporting Adaptability Communication skills Creativity: 0.43%
-Event planning and coordination Budget management Vendor negotiation Venue selection and management Timeline and logistics planning Marketing and promotion Risk management Client communication Creativity Problem-solving Attention to detail: 0.42%
-Test automation tools (e.g., Selenium, Appium) Scripting languages (e.g., Python, Java) Test framework development Continuous integration tools Test data management: 0.42%
-Market research methodologies Data collection and analysis Consumer behavior analysis Competitor analysis Survey design and analysis Statistical analysis software (e.g., SPSS, SAS) Data visualization Trend analysis Report writing Communication skills Attention to detail: 0.42%
-Employee benefits administration Benefits compliance HRIS Benefits communication: 0.42%
-Data collection and analysis Market research tools and techniques Survey design and analysis Qualitative and quantitative research methods Report writing and presentation skills: 0.42%
-Office administration Communication skills Organizational skills Time management Microsoft Office proficiency: 0.42%
-Technical troubleshooting Hardware and software support Customer service Problem-solving Communication: 0.42%
-User interface (UI) design User experience (UX) design Wireframing and prototyping tools (e.g., Sketch, Figma) Usability testing Information architecture Interaction design Mobile and responsive design: 0.42%
-Artistic skills Teaching ability Communication skills Art history knowledge Creativity: 0.23%
-Digital marketing strategy Social media marketing Content creation SEO (Search Engine Optimization) PPC advertising Analytics and reporting: 0.22%
-Geriatric assessment and evaluation Geriatric-specific occupational therapy techniques Aging-related conditions (e.g., dementia, arthritis) Fall prevention strategies Care coordination with healthcare teams Assistive technology for seniors Patient advocacy Empathy and compassion Communication skills: 0.22%
-Marketing analytics Data analysis Data visualization Market research Google Analytics Marketing automation Reporting tools: 0.22%
-Graphic design tools (e.g., Adobe Creative Suite) Web design principles User interface (UI) design Visual communication Typography Creativity and artistic skills: 0.22%
-Medical knowledge and clinical skills Patient care and assessment Communication and empathy: 0.22%
-Mediation Conflict resolution Negotiation Communication skills Neutrality Problem-solving Legal knowledge Mediation techniques: 0.22%
-Customer support Team leadership Customer satisfaction Issue resolution Performance metrics Training and development: 0.22%
-Network administration System administration Virtualization technologies (e.g., VMware, Hyper-V) Storage management IT security Disaster recovery planning Capacity planning Monitoring and troubleshooting Cloud infrastructure (e.g., AWS, Azure) Vendor management: 0.22%
-Family counseling Marriage and family therapy Conflict resolution skills: 0.22%
-Brand promotion Marketing knowledge Communication skills Sales techniques Product knowledge: 0.22%
-Hospitality interior design Hotel and restaurant design Branding and theme integration FF&E (furniture, fixtures, and equipment) selection Customer experience design: 0.22%
-Customer service Call center operations Problem-solving skills: 0.22%
-Sales leadership Territory management Team management Sales data analysis Strategic planning and execution: 0.22%
-Family medicine Health assessment Pediatric care Chronic disease management Patient education: 0.22%
-Product knowledge Demonstrating skills Sales techniques Customer engagement Communication skills: 0.22%
-HTML, CSS, JavaScript Frontend frameworks (e.g., React, Angular) User experience (UX): 0.22%
-Office management Administrative tasks Communication and organization: 0.22%
-Web application development Java web frameworks (e.g., Servlets, JSP) Frontend integration User authentication Security protocols Code documentation: 0.22%
-Forensic accounting Fraud detection Legal knowledge Investigative skills: 0.22%
-JavaScript programming Frontend development Frontend frameworks (e.g., React, Angular) DOM manipulation AJAX Debugging and troubleshooting: 0.22%
-Enterprise architecture Business strategy alignment IT governance and compliance: 0.22%
-Electrical engineering Power system analysis Renewable energy systems Control systems Safety regulations: 0.22%
-Quality control processes and methodologies Statistical process control (SPC) Root cause analysis and corrective action Quality management systems (e.g., ISO 9001) Compliance and regulatory knowledge: 0.22%
-Network infrastructure design Routing and switching Network protocols (e.g., TCP/IP) Cisco or Juniper certifications Troubleshooting and diagnostics Security protocols Wireless networking Network monitoring Collaboration Problem-solving Attention to detail: 0.22%
-Performance testing methodologies Load testing tools (e.g., JMeter) Test script development Performance profiling and analysis Bottleneck identification: 0.22%
-Wedding planning Vendor coordination Ceremony and reception logistics Wedding etiquette Budget management Timeline planning Attention to detail Client communication Creativity Problem-solving Emotional intelligence Event design: 0.22%
-E-discovery tools and processes Document review and production Litigation support software (e.g., Relativity) Data analysis Case management Communication with legal teams Technical proficiency Attention to detail Problem-solving Legal research skills: 0.22%
-Sales prospecting and networking Face-to-face sales meetings Territory management Consultative selling Relationship building Sales tracking and reporting: 0.22%
-Art instruction Classroom management Art techniques Lesson planning Student assessment: 0.22%
-Marketing automation platforms (e.g., Marketo, Pardot) Lead nurturing Workflow automation CRM integration Analytics and reporting Email marketing Campaign optimization Marketing strategy Communication skills Problem-solving Attention to detail: 0.22%
-Marketing analytics Data analysis tools (e.g., Google Analytics, Adobe Analytics) Brand performance measurement Consumer behavior analysis Campaign effectiveness evaluation: 0.22%
-Environmental regulations Ecosystem analysis Environmental impact assessments Sustainability planning Project management: 0.22%
-Community engagement and moderation Online community-building strategies Content curation and creation Crisis management and conflict resolution Analytics and reporting: 0.22%
-IT systems analysis Troubleshooting IT support and documentation: 0.22%
-Usability evaluation User interface assessment Usability testing tools and techniques: 0.22%
-Surgical procedures and techniques Operating room protocols Anesthesia management: 0.22%
-Competitive analysis Market research Data analysis Business strategy Industry knowledge: 0.22%
-Test automation frameworks and tools Scripting and programming languages (e.g., Python, Java) Continuous integration and continuous testing (CI/CT) Test script development and maintenance Test environment setup and management: 0.22%
-Supply chain management Inventory control Transportation logistics Vendor relations Team leadership and management: 0.22%
-Print design software (e.g., Adobe InDesign, Illustrator) Layout and composition Print production processes Color theory and management Attention to detail Print industry knowledge: 0.22%
-Quality assurance processes and methodologies Quality metrics and KPIs Audit and compliance Team leadership and management Continuous improvement initiatives: 0.22%
-Business tax law knowledge Corporate tax planning Tax compliance for businesses Tax credits and incentives Tax strategy development Financial analysis IRS regulations Client relationship management Communication skills Tax software proficiency: 0.22%
-Risk assessment Data analysis Financial modeling Risk management tools Regulatory compliance knowledge: 0.22%
-Data architecture design Database management systems Data modeling: 0.22%
-Dental public health principles Community outreach and education Dental health program planning Epidemiology knowledge Public health regulations knowledge: 0.22%
-Environmental compliance Regulatory requirements Environmental impact assessments Reporting Environmental regulations Auditing: 0.22%
-Legal counsel Legal advice Contract negotiation Legal research Litigation support Client representation Legal writing Regulatory compliance: 0.22%
-Systems engineering System architecture Integration testing Troubleshooting Technical documentation Configuration management: 0.22%
-Data analysis techniques Research methodologies Data collection and interpretation Statistical analysis software (e.g., R, Python) Data visualization tools (e.g., Tableau, Power BI) Research report writing Critical thinking Problem-solving Communication skills Attention to detail: 0.22%
-Sales strategies and tactics Account management Relationship building Sales forecasting Industry and product knowledge: 0.22%
-UI/UX design Frontend web development Wireframing and prototyping User research Accessibility standards Responsive design Collaboration skills: 0.22%
-Pediatric healthcare Pediatric assessment Pediatric treatment Patient education Pediatric pharmacology: 0.22%
-Desktop hardware and software troubleshooting Operating system expertise (e.g., Windows, macOS) Remote desktop support Hardware and software upgrades Customer service skills: 0.22%
-Facilities management Property maintenance Space planning Budget management Health and safety compliance Vendor management: 0.22%
-Software quality assurance Test planning Test case design Test execution Defect tracking Test automation (e.g., Selenium): 0.22%
-SOC operations Security incident response Threat detection Log analysis Security tools (e.g., IDS/IPS) Security alerts triage: 0.22%
-Industrial design principles CAD and 3D modeling Prototyping and testing: 0.22%
-Network administration System and server maintenance Cybersecurity knowledge Backup and recovery IT project management skills: 0.22%
-Periodontal therapy procedures Patient care and communication Dental instrumentation Periodontal disease management Oral health education: 0.22%
-Investment analysis Portfolio management Risk assessment: 0.22%
-Construction project management Building codes and regulations knowledge Budgeting and cost control Construction scheduling Contractor and subcontractor coordination: 0.22%
-Digital marketing strategies Analytics and reporting SEO and SEM Social media marketing Email marketing Data interpretation Marketing automation tools A/B testing Communication skills Problem-solving Attention to detail Marketing knowledge: 0.22%
-Veterinary medicine Small animal care and surgery Animal diagnostics Preventive medicine Client communication Surgical skills Radiology Anesthesia Laboratory diagnostics Compassion and empathy Problem-solving Attention to detail: 0.22%
+c#: 19.15%
+c++: 18.02%
+css: 11.11%
+javascript: 28.69%
+git: 19.22%
+java: 33.91%
+python: 37.89%
+sql: 24.13%
+go: 11.41%
+aws: 27.39%
+azure: 11.07%
+agile: 21.95%
+typescript: 15.69%
+docker: 16.36%
+kubernetes: 17.39%
+angular: 11.60%
+react: 16.39%
+linux: 15.06%
+software engineering: 19.09%
+software development: 15.91%
+unit testing: 10.32%
+html: 11.27%

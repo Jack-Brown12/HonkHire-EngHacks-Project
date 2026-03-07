@@ -1,125 +1,20 @@
-Brand strategy Brand development Creative direction Brand management Market research: 0.22%
-Big data technologies (Hadoop, Spark, etc.) Data processing and analysis Distributed computing: 0.22%
-Clinical nursing specialization (e.g., critical care, oncology) Advanced nursing skills Patient education: 0.22%
-Pediatric specialization Advanced pediatric care Pediatric subspecialty (e.g., pediatric cardiology, pediatric oncology) Pediatric diagnostics Pediatric treatment: 0.22%
-Agile methodologies Scrum or Kanban Team collaboration Agile tools (e.g., Jira): 0.22%
-Digital marketing strategies SEO and SEM Social media marketing Email marketing campaigns Content marketing Web analytics (e.g., Google Analytics) Marketing automation tools (e.g., HubSpot, Marketo): 0.22%
-Cloud systems engineering Cloud infrastructure (e.g., AWS, Azure) DevOps practices Automation Security in the cloud Disaster recovery Scalability: 0.22%
-Adult speech therapy Speech-language assessment Rehabilitation techniques Swallowing disorders Communication skills: 0.22%
-Addiction counseling techniques Substance abuse treatment Counseling ethics: 0.22%
-Tax preparation Tax planning Tax regulations Accounting Tax software proficiency: 0.22%
-Email marketing platforms (e.g., Mailchimp, Constant Contact) Email campaign creation and segmentation A/B testing and optimization Email deliverability and compliance Metrics tracking and analysis: 0.22%
-User experience strategy User journey mapping Design thinking: 0.22%
-Mobile app development languages (e.g., Java, Swift, Kotlin) Cross-platform development (e.g., React Native, Flutter) Mobile app design principles APIs and web services integration Debugging and troubleshooting: 0.22%
-Tax law knowledge Individual tax planning Tax return preparation Tax deductions and credits Tax compliance IRS regulations Client relationship management Communication skills Attention to detail Tax software proficiency: 0.22%
-Industrial engineering Process optimization Lean manufacturing Quality control Data analysis Workflow design: 0.22%
-SEO (Search Engine Optimization) Content strategy Keyword research Content optimization Content planning Analytics and reporting: 0.22%
-Backend development RESTful APIs Database integration Java EE (Enterprise Edition) Performance optimization Version control (e.g., Git): 0.22%
-Help desk support Ticket resolution IT troubleshooting Customer service skills Technical knowledge Documentation and knowledge base maintenance Communication and interpersonal skills: 0.22%
-Analytical chemistry Laboratory techniques Instrumentation Data analysis Quality control Sample preparation Scientific software (e.g., ChemDraw): 0.22%
-Emergency medical care Triage and assessment Trauma management: 0.22%
-Web accessibility standards (e.g., WCAG) Assistive technologies Accessibility testing tools HTML and CSS for accessibility ARIA (Accessible Rich Internet Applications) User experience (UX) for accessibility Usability testing with individuals with disabilities Collaboration Attention to detail: 0.22%
-SEO (Search Engine Optimization) Keyword research SEO-friendly content On-page optimization Meta tags SEO tools (e.g., SEMrush): 0.22%
-Media relations Press releases Media outreach Crisis communication Public relations strategies: 0.22%
-Process optimization Manufacturing processes Lean Six Sigma methodologies Data analysis Statistical process control Quality management Root cause analysis Collaboration Problem-solving Attention to detail Technical knowledge: 0.22%
-Java programming Java frameworks (e.g., Spring) Object-oriented design Code debugging Software development Problem-solving skills: 0.22%
-User interface (UI) design User experience (UX) design Web design principles Prototyping and wireframing Front-end development languages (e.g., HTML, CSS, JavaScript) Interaction design User testing Responsive design Usability testing Collaboration Attention to detail: 0.22%
-Pediatrics Pediatric care Diagnosis and treatment Pediatric medical procedures Patient care Communication skills: 0.22%
-Product design principles Prototyping and wireframing User research User testing UI/UX design 3D modeling (if applicable) Collaboration Problem-solving Creativity Attention to detail Communication skills Software proficiency (e.g., Sketch, Adobe XD): 0.22%
-Special education strategies Individualized education plans (IEPs) Behavior management techniques Collaboration with support staff Special education laws and regulations knowledge: 0.22%
-Expertise in a specific subject area Knowledge of curriculum standards Instructional design Assessment development Educational technology proficiency: 0.22%
-Records management Data entry and retrieval Attention to detail: 0.22%
-Sourcing strategies Supplier evaluation Market research Cost analysis Contract negotiation: 0.22%
-Strategic IT planning Leadership and management Budgeting and financial management IT governance and compliance Vendor management Cybersecurity and risk management Project management Cloud computing Network infrastructure Enterprise software systems: 0.22%
-B2B sales Business-to-business sales strategies Lead generation Sales negotiations Client relationship building Market research: 0.22%
-Supplier diversity programs Diversity and inclusion initiatives Supplier assessment and certification Data collection and reporting Vendor outreach and engagement Strategic planning Communication skills Relationship building Attention to diversity and inclusion principles: 0.22%
-Cybersecurity Security assessments Intrusion detection Security tools (e.g., SIEM) Incident response Vulnerability scanning: 0.22%
-Bridge design Civil engineering Structural analysis AutoCAD proficiency Project management: 0.22%
-Supply chain analysis Data analytics Inventory management Transportation planning Problem-solving: 0.22%
-Test automation Test framework development Continuous integration Scripting languages (e.g., Python) Test reporting Code review: 0.22%
-Transportation planning Traffic engineering GIS proficiency Public transportation Project management: 0.22%
-Legal research Discovery management Case preparation Trial support Document review Client communication E-filing Attention to detail Multitasking Legal terminology Technology proficiency Communication skills Legal software proficiency: 0.22%
-Financial analysis Investment evaluation Portfolio management Data analysis: 0.22%
-Corporate law Commercial litigation Dispute resolution Contract law Legal strategy Negotiation: 0.22%
-Mechanical engineering CAD software (e.g., SolidWorks, AutoCAD) Finite element analysis Product development Prototyping: 0.22%
-Market research and analysis Content creation and copywriting Social media management SEO and digital marketing Marketing automation tools proficiency: 0.22%
-Tax planning strategies Tax law knowledge Financial analysis Retirement planning Estate planning Client relationship management Tax optimization Communication skills Attention to detail Tax software proficiency Regulatory compliance: 0.22%
-Sales leadership Team management Sales strategy and planning: 0.22%
-Server-side programming languages (e.g., Java, Python) Database management API development: 0.22%
-Electrical engineering Circuit design Electronics AutoCAD proficiency Problem-solving: 0.22%
-Acute care nursing Emergency medicine Critical care Diagnostic tests Treatment planning: 0.22%
-Data integration ETL (Extract, Transform, Load) Big data technologies (e.g., Hadoop, Spark) Database management Data warehousing: 0.22%
-Real estate transactions Title searches Closing processes Deed preparation Contract review Communication with real estate professionals Attention to detail Real estate terminology Technology proficiency Legal software proficiency Legal research skills: 0.22%
-In-house counsel Legal advisory Employment law Intellectual property Regulatory compliance Dispute resolution Contract review Client counseling: 0.22%
-Commercial interior design Workplace ergonomics Building codes and regulations knowledge Sustainable design principles AutoCAD and Revit proficiency: 0.22%
-Content strategy SEO content optimization Content marketing Keyword mapping Analytics: 0.22%
-Human resources Recruitment Employee onboarding HRIS (HR Information Systems) Record keeping Communication skills: 0.22%
-Event planning Conference logistics Budget management Vendor coordination Marketing and promotion Client relations: 0.22%
-Technical documentation Technical knowledge Writing skills Editing User manuals: 0.22%
-Brand management Public relations Brand storytelling Influencer marketing Media monitoring: 0.22%
-Business systems analysis Requirements gathering Process improvement: 0.22%
-Wedding planning Vendor coordination Event management: 0.22%
-Legal administrative tasks Document management Calendar and docketing Transcription File organization Communication with clients and courts Knowledge of legal terminology Attention to detail Multitasking Computer skills (e.g., MS Office): 0.22%
-Market research coordination Survey design and administration Data analysis: 0.22%
-Office administration Calendar management Reception duties Communication skills Record keeping Office supplies management: 0.22%
-Crisis communication planning Crisis response Media relations Reputation management Stakeholder communication: 0.22%
-Advertising and marketing knowledge Client relationship management Advertising campaign development Budget management Media planning and buying: 0.22%
-Pediatric surgery Surgical procedures for children Operating room protocols Patient care Surgical techniques Pediatric anesthesia: 0.22%
-Social media management Content creation Audience engagement Marketing strategy Communication skills: 0.22%
-Training and development Performance management Learning programs Employee engagement Coaching and mentoring: 0.22%
-Teaching pedagogy Classroom management Curriculum development Student assessment Differentiated instruction: 0.22%
-Litigation Legal research Courtroom representation Case preparation Client counseling Legal writing: 0.22%
-Pediatric assessment and evaluation Occupational therapy techniques for children Developmental milestones Sensory integration therapy Pediatric psychology Family-centered care Individualized treatment plans Communication skills Pediatric healthcare knowledge: 0.22%
-Corporate law Compliance Mergers and acquisitions Corporate governance Contract drafting Risk management Legal strategy Due diligence: 0.22%
-Network troubleshooting IT support Network configuration Technical knowledge Problem-solving: 0.22%
-Product branding and marketing Product lifecycle management Cross-functional team collaboration Product launch planning Market segmentation and targeting: 0.22%
-Key account management Sales strategy development Negotiation and closing skills Relationship building Industry and market knowledge: 0.22%
-Research methodologies and data analysis Literature review and synthesis Statistical analysis software (e.g., SPSS, R) Research proposal development Strong communication and reporting skills: 0.22%
-Accounting principles Financial reporting Team management Budgeting Financial analysis: 0.22%
-SQL (Structured Query Language) Database design Query optimization Data modeling Database maintenance Problem-solving skills: 0.22%
-Network security Cybersecurity Intrusion detection Security analysis Firewall management: 0.22%
-Geriatric healthcare Geriatric assessment Geriatric treatment Elderly patient care Geriatric pharmacology: 0.22%
-Security consulting Risk assessment Security audits Security policy development Penetration testing Client communication: 0.22%
-Quality assurance Quality control Process improvement Audit procedures Compliance standards Root cause analysis: 0.22%
-Corporate legal tasks Document drafting Compliance Corporate governance Contract management Due diligence Entity formation Communication with stakeholders Attention to detail Technology proficiency Legal software proficiency Legal research skills: 0.22%
-Aerospace engineering CAD software (e.g., AutoCAD) Aerodynamics Structural analysis Aircraft systems Safety regulations: 0.22%
-API design and development RESTful API knowledge Security protocols (OAuth, JWT): 0.22%
-Performance testing Load testing Stress testing Test scenarios Performance monitoring Benchmarking Performance analysis: 0.22%
-Corporate event planning Corporate branding and messaging Speaker and entertainment booking Audiovisual production Team coordination Crisis management Budgeting and financial management Client communication Creativity Problem-solving Attention to detail: 0.22%
-Network performance analysis Network monitoring tools (e.g., Wireshark) Troubleshooting Capacity planning Data analysis Network protocols: 0.22%
-Customer service Sales techniques Product knowledge Cash handling Communication skills: 0.22%
-School social work principles Student assessment and intervention Special education laws Individualized education plans (IEPs) Crisis management Collaboration with educators Family engagement Advocacy Empathy and communication Documentation Cultural competence Licensing and certification: 0.22%
-Search engine optimization Keyword research SEO tools (e.g., Google Analytics, SEMrush) On-page and off-page optimization: 0.22%
-Quality control Quality assurance QC testing methods Compliance standards Root cause analysis Documentation Statistical analysis: 0.22%
-Project planning and scheduling Budget management Risk assessment and mitigation Stakeholder communication Agile or Waterfall methodologies: 0.22%
-User research methods Usability testing Data analysis and interpretation: 0.22%
-Architectural project management Construction documents Building systems Design coordination Client communication: 0.22%
-Legal research Document drafting Communication skills Legal software proficiency Attention to detail: 0.22%
-Lighting design Architectural lighting Lighting software proficiency Creative lighting concepts Technical knowledge: 0.22%
-Brand strategy development Market research and analysis Competitive analysis Brand positioning and messaging Creative direction and collaboration: 0.22%
-Document management Recordkeeping Attention to detail Data entry Organizational skills: 0.22%
-Geriatric rehabilitation Fall prevention Elderly patient care: 0.22%
-Wealth management strategies Asset allocation Estate planning Tax management Client relationship management: 0.22%
-System administration Network administration Troubleshooting Security management Server maintenance Backup and recovery: 0.22%
-Account management Customer relationship management Sales and negotiation Business development Client needs analysis: 0.21%
-Architectural design software (e.g., AutoCAD, Revit) Building codes and regulations 3D modeling Visualization Sustainable design: 0.21%
-Employment law and regulations Employment contracts and agreements Workplace discrimination and harassment laws Legal compliance Client representation and advocacy: 0.21%
-Creative leadership Art direction Concept development Visual design Advertising and marketing expertise: 0.21%
-Creative writing Copywriting Advertising copy Content creation Brand storytelling Marketing campaigns Proofreading and editing: 0.21%
-Sales techniques and strategies Relationship building CRM software usage Product knowledge Negotiation and closing skills: 0.21%
-Employment law knowledge Compliance management Auditing skills Employee relations Communication skills: 0.21%
-Urban design and planning Zoning regulations GIS and mapping tools: 0.21%
-Technical troubleshooting Customer service and communication Ticketing system usage Basic IT knowledge Problem-solving and critical-thinking skills: 0.21%
-Speech pathology Articulation therapy Language disorders Speech assessment Therapy planning Communication skills: 0.21%
-Nursing care Patient assessment Health promotion Medication administration Electronic health records (EHR): 0.21%
-Strategic sourcing strategies Supplier evaluation and selection Negotiation skills Vendor management Cost analysis Supply chain management Contract management Problem-solving Attention to detail Communication skills Strategic thinking: 0.21%
-Onboarding process management New employee orientation Training and development HR policies and procedures Employee engagement strategies: 0.21%
-Orthopedic assessment and treatment Rehabilitation exercises Patient education: 0.21%
-Research chemistry Experimental design Data interpretation Chemical synthesis Research protocols Scientific writing Problem-solving skills: 0.21%
-Sales strategy development Territory management Sales team leadership: 0.21%
-Digital marketing strategy development Social media advertising Email marketing Google Analytics and SEO Content management systems (CMS) proficiency: 0.21%
-Business development Sales strategy Market analysis Client acquisition Team leadership Strategic planning Presentation skills: 0.21%
-Corporate event planning Corporate branding Corporate communication Audiovisual equipment Crisis management: 0.21%
-Network security protocols and technologies Firewalls and intrusion detection systems Vulnerability assessment and penetration testing Security policy development and enforcement Incident response and recovery: 0.21%
-Graphic design Typography User interface (UI) design Adobe Creative Suite proficiency Branding and visual identity creation: 0.21%
-Intellectual property law Trademark and patent law Copyright law IP portfolio management Litigation and dispute resolution: 0.21%
+.net: 8.20%
+node.js: 9.14%
+gcp: 6.36%
+communication: 7.49%
+cloud computing: 9.09%
+jenkins: 7.68%
+computer science: 7.44%
+agile development: 6.78%
+postgresql: 6.59%
+jira: 9.88%
+nosql: 5.97%
+devops: 9.48%
+ci/cd: 7.60%
+confluence: 5.27%
+machine learning: 6.84%
+scrum: 9.82%
+c: 6.89%
+distributed systems: 5.06%
+microservices: 9.90%
+mysql: 5.34%
