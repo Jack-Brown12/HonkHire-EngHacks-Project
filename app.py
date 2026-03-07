@@ -7,7 +7,7 @@ from skill_extraction import extract_skills, ROLES
 
 def initialize():
     st.set_page_config(
-        page_title=" >> Hire Honker <<",
+        page_title="Hire Honker",
         page_icon="🪿",
         layout="wide",
         initial_sidebar_state="expanded",
@@ -15,41 +15,17 @@ def initialize():
 
     st.markdown("""
     <style>
-    h1 {
-        font-size: 2.5rem;
-        color: #f0a500;
-    }
-    </style>
-
-    <h1>🪿 Hire Honker</h1>
-    """, unsafe_allow_html=True)
-
-    st.markdown("""
-    <div style="margin-bottom: 2rem;">
-        <div style="
-            font-family: 'Space Grotesk', sans-serif;
-            font-size: 0.7rem;
-            text-transform: uppercase;
-            letter-spacing: 0.2em;
-            color: var(--muted);
-            margin-bottom: 0.4rem;
-        ">Resume Intelligence Platform</div>
-    </div>
-    """, unsafe_allow_html=True)
-
-    st.markdown("""
-    <style>
-    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&family=Space+Grotesk:wght@500;700&display=swap');
+    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&family=Space+Grotesk:wght@500;700&family=DM+Mono:wght@400;500&display=swap');
 
     :root {
-        --bg:       #0f0f0f;
-        --surface:  #1a1a1a;
-        --surface2: #222222;
-        --border:   #2e2e2e;
-        --accent:   #f0a500;      /* your brand color — change this one line to retheme everything */
+        --bg:         #0f0f0f;
+        --surface:    #1a1a1a;
+        --surface2:   #222222;
+        --border:     #2e2e2e;
+        --accent:     #f0a500;
         --accent-dim: #7a5200;
-        --text:     #f0ede8;
-        --muted:    #6b6b6b;
+        --text:       #f0ede8;
+        --muted:      #6b6b6b;
     }
 
     /* ── Global ── */
@@ -98,7 +74,7 @@ def initialize():
         background: var(--surface2) !important;
     }
 
-    /* ── Alerts (st.info, st.warning, st.success) ── */
+    /* ── Alerts ── */
     .stAlert {
         background: var(--surface2) !important;
         border-left: 3px solid var(--accent) !important;
@@ -112,7 +88,25 @@ def initialize():
         border: 1px dashed var(--border) !important;
         border-radius: 4px !important;
     }
+
+    /* ── Headings ── */
+    h1 {
+        font-size: 4.0rem;
+        color: var(--accent);
+        font-family: 'DM Mono', monospace;
+    }
     </style>
+
+    <h1>🪿 Hire Honker</h1>
+
+    <div style="
+        font-family: 'Space Grotesk', sans-serif;
+        font-size: 0.7rem;
+        text-transform: uppercase;
+        letter-spacing: 0.2em;
+        color: #6b6b6b;
+        margin-bottom: 2rem;
+    ">Resume Intelligence Platform</div>
     """, unsafe_allow_html=True)
 
     if "resume_saved" not in st.session_state:
@@ -129,6 +123,7 @@ def initialize():
 
 def sidebar_uploads():
     with st.sidebar:
+        st.image("HireHonker.png", width=350)
         st.markdown("Upload your files here:")
 
         uploaded_resume = st.file_uploader("Upload your Resume", type="pdf")
