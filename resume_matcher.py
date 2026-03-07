@@ -13,7 +13,7 @@ def calculate_resume_match(resume_text, job_text):
     if not job_skills: 
         match_score = 0
     else:
-        match_score = round((len(matched_skills) / len(job_skills)) * 100)
+        match_score = round((len(matched_skills) / len(job_skills)))
 
     
     return {
