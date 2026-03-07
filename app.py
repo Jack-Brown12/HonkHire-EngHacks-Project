@@ -13,7 +13,94 @@ def initialize():
         initial_sidebar_state="expanded",
     )
 
-    st.title(">> Hire Honker <<")
+    st.markdown("""
+    <style>
+    h1 {
+        font-size: 2.5rem;
+        color: #f0a500;
+    }
+    </style>
+
+    <h1>🪿 Hire Honker</h1>
+    """, unsafe_allow_html=True)
+
+    st.markdown("""
+    <style>
+    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&family=Space+Grotesk:wght@500;700&display=swap');
+
+    :root {
+        --bg:       #0f0f0f;
+        --surface:  #1a1a1a;
+        --surface2: #222222;
+        --border:   #2e2e2e;
+        --accent:   #f0a500;      /* hello this is the brand colour */
+        --accent-dim: #7a5200;
+        --text:     #f0ede8;
+        --muted:    #6b6b6b;
+    }
+
+    /* ── Global ── */
+    html, body, .stApp {
+        background-color: var(--bg) !important;
+        color: var(--text) !important;
+        font-family: 'Inter', sans-serif !important;
+    }
+
+    /* ── Hide Streamlit chrome ── */
+    #MainMenu, footer, header { visibility: hidden; }
+    .block-container { padding: 2rem 3rem 4rem !important; max-width: 1200px; }
+
+    /* ── Sidebar ── */
+    [data-testid="stSidebar"] {
+        background: var(--surface) !important;
+        border-right: 1px solid var(--border) !important;
+    }
+    [data-testid="stSidebar"] * { color: var(--text) !important; }
+
+    /* ── Buttons ── */
+    .stButton > button {
+        background: transparent !important;
+        border: 1px solid var(--accent) !important;
+        color: var(--accent) !important;
+        font-family: 'Space Grotesk', sans-serif !important;
+        font-size: 0.75rem !important;
+        text-transform: uppercase;
+        letter-spacing: 0.1em;
+        border-radius: 3px !important;
+        transition: all 0.2s ease;
+    }
+    .stButton > button:hover {
+        background: var(--accent) !important;
+        color: var(--bg) !important;
+    }
+
+    /* ── Expanders ── */
+    .stExpander {
+        background: var(--surface) !important;
+        border: 1px solid var(--border) !important;
+        border-radius: 6px !important;
+        margin-bottom: 1rem !important;
+    }
+    .stExpander summary {
+        background: var(--surface2) !important;
+    }
+
+    /* ── Alerts (st.info, st.warning, st.success) ── */
+    .stAlert {
+        background: var(--surface2) !important;
+        border-left: 3px solid var(--accent) !important;
+        color: var(--text) !important;
+        border-radius: 4px !important;
+    }
+
+    /* ── File uploader ── */
+    [data-testid="stFileUploader"] {
+        background: var(--surface2) !important;
+        border: 1px dashed var(--border) !important;
+        border-radius: 4px !important;
+    }
+    </style>
+    """, unsafe_allow_html=True)
 
     if "resume_saved" not in st.session_state:
         st.session_state["resume_saved"] = False
