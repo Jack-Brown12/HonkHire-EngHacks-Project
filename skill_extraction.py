@@ -61,7 +61,10 @@ def extract_skills(text: str, fuzzy_threshold: int = 85):
     return sorted(found_skills.items(), key=lambda x: x[1], reverse=True)
 
 def detect_role(text: str):
-
+    """
+    :param text:
+    :return: finds the name of a job posting
+    """
     text = text.lower()
 
     for role in ROLES:
