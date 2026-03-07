@@ -1,5 +1,5 @@
 from fastapi import FastAPI, HTTPException
-from skill_extraction.skill_extraction import extract_skills, detect_role
+from skill_extraction import extract_skills, detect_role
 from pydantic import BaseModel, Field  
 from typing import List
 
