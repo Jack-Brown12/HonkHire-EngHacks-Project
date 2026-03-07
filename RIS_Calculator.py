@@ -1,4 +1,4 @@
-def RIS_calculator(resume_skills, matched_skills, missing_skills, match_score, skill_category_lists):
+def RIS_calculator(matched_skills, missing_skills, skill_category_lists):
     score = 0
 
     common_skills = skill_category_lists["core_skills"]

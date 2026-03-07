@@ -6,6 +6,7 @@ from pdf_ingestion import extract_text_from_pdf
 from skill_extraction import extract_skills, ROLES
 from resume_matcher import calculate_resume_match
 from analyze_job_skills import get_final_market_analysis
+from RIS_Calculator import RIS_calculator
 
 def initialize():
     st.set_page_config(
@@ -164,6 +165,7 @@ def sidebar_uploads():
                     resume_skills, matched_skills, missing_skills, match_score = calculate_resume_match(resume_text,job_text)
 
                     skill_category_lists = get_final_market_analysis(job_skills, threshold=85)
+                    final_score = RIS_calculator(matched_skills, missing_skills, skill_category_lists)
 
             elif uploaded_job_desc and not uploaded_resume:
                 st.warning("You need to upload your resume too!")
