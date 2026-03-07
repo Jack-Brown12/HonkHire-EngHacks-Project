@@ -1,6 +1,6 @@
 from pdf_ingestion import extract_text_from_pdf
 from skill_extraction import extract_skills, detect_role
-from resume_matcher import calculate_resume_match
+from backend.resume_matcher import calculate_resume_match
 
 def analyze_job_and_resume(job_pdf_path, resume_pdf_path):
     job_text = extract_text_from_pdf(job_pdf_path)
