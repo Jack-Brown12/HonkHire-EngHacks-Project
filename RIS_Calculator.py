@@ -9,7 +9,7 @@ def RIS_calculator(user_resume_skills, market_analysis):
         if skill.lower() in user_skills_set:
             score += 1
         else:
-            score -= 1
+            score -= 3
 
     for skill in market_analysis["optional_skills"]:
         max_possible_score += 2
@@ -24,11 +24,11 @@ def RIS_calculator(user_resume_skills, market_analysis):
         if skill.lower() in user_skills_set:
             score += 3  
         else: 
-            score -= 3
+            score -= 1
 
            
 
-    final_percentage = 
+    final_percentage = ((score / max_possible_score) + 1) / 2 * 100
     
     
     return round(final_percentage, 2)
