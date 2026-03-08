@@ -2,9 +2,11 @@
 ### Resume Intelligence Plaform for Waterloo Engineering Students
 
 ## Overview
+
 HonkHire helps students understand how well their resume matches a job posting. Users upload a resume PDF and a job posting PDF, and the app extracts skills, compares them, and highlights matched and missing requirements. The goal is to make job applications clearer and easier to evaluate.
 
 ## Problem
+
 Engineering students often struggle to tell whether they are actually qualified for a co-op or internship posting. Job descriptions can be unclear, inflated, or overly broad, which makes it hard to know whether to apply. HonkHire addresses this by turning job postings into structured skill information and comparing them directly with a student's resume.
 
 ## Features
@@ -29,7 +31,7 @@ Engineering students often struggle to tell whether they are actually qualified 
 3. Natural Language Processing identifies skills in the job posting and resume.
 4. The system compares the two skill sets.
 5. The app calculates a **match score** and **Relevance Index Score (RIS)**.
-6. Results are displayed in an interactive dashboard.
+6. Results are displayed in a dashboard.
 
 ## Tech Stack
 
@@ -59,6 +61,7 @@ HonkHire-EngHacks-Project
 ## How to Run
 
 pip install requirements.txt
+
 streamlit run app.py
 
 ## Citations
