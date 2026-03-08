@@ -57,11 +57,14 @@ EngHacks-Project
 ├── skill_extraction.py     # NLP skill detection
 ├── resume_matcher.py       # Resume vs job comparison logic
 ├── analyze_job_skills.py   # Market skill analysis
-├── RIS_Calculator.py       # Resume Intelligence Score
+├── RIS_Calculator.py       # Relevance Index Score
 ├── requirements.txt
 └── README.md
 
 ## How to Run
+
+pip install requirements.txt
+streamlit run app.py
 
 ## Citations
 
