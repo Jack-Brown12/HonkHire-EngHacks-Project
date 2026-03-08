@@ -5,6 +5,11 @@ from skill_extraction import extract_skills
 from analyze_job_skills import get_final_market_analysis
 from RIS_Calculator import RIS_calculator
 
+#==============================================================================================================================================================
+# Disclaimer: The streamlit base was originally designed manually, however, to ensure the deadline be fulfilled, GhatGPT 4.0 and Claude AI were used to
+# ensure the streamlit would call all functions from the backend accordingly; changes were for functional purposes without much addition otherwise
+#==============================================================================================================================================================
+
 def initialize():
     st.set_page_config(
         page_title="Hire Honker",
