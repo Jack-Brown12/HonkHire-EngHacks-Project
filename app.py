@@ -123,42 +123,42 @@ def render_dashboard():
     if st.session_state["job_analyzed"]:
         score = st.session_state["final_score"]
         market = st.session_state["skill_category_lists"]
-        res_skills = {s.lower() for s in st.session_state["resume_skills"]}
+        res_skills = {skills.lower() for skills in st.session_state["resume_skills"]}
 
         st.divider()
         st.markdown("## Analysis Results")
         
         col1, col2 = st.columns(2)
-        col1.metric("Realistic Application Score", f"{score}%")
-        core_match_count = len([s for s in market["core_skills"] if s.lower() in res_skills])
+        col1.metric("Relevance Index Score (RIS prounounced rizz)", f"{score}%")
+        core_match_count = len([skills for skills in market["core_skills"] if skills.lower() in res_skills])
         col2.metric("Core Skills Found", core_match_count)
 
         st.markdown("---")
         
-        tab1, tab2, tab3 = st.tabs(["Skill Breakdown", "Resume Inventory", "Final Assessment"])
+        tab1, tab2, tab3 = st.tabs(["Skill Breakdown", "Resume Skills", "Final Assessment"])
 
         with tab1:
             c1, c2, c3 = st.columns(3)
-            def sort_matched(s_list):
-                return sorted(s_list, key=lambda x: x.lower() in res_skills, reverse=True)
+            def sort_matched(skills_list):
+                return sorted(skills_list, key=lambda x: x.lower() in res_skills, reverse=True)
 
             with c1:
                 st.markdown("### Core Skills")
-                for s in sort_matched(market["core_skills"]):
-                    if s.lower() in res_skills: st.success(f"Matched: {s}")
-                    else: st.error(f"Missing: {s}")
+                for skills in sort_matched(market["core_skills"]):
+                    if skills.lower() in res_skills: st.success(f"Matched: {skills}")
+                    else: st.error(f"Missing: {skills}")
             
             with c2:
                 st.markdown("### Uncommon Skills")
-                for s in sort_matched(market["optional_skills"]):
-                    if s.lower() in res_skills: st.success(f"Matched: {s}")
-                    else: st.warning(f"Missing: {s}")
+                for skills in sort_matched(market["optional_skills"]):
+                    if skills.lower() in res_skills: st.success(f"Matched: {skills}")
+                    else: st.warning(f"Missing: {skills}")
 
             with c3:
-                st.markdown("### Rare")
-                for s in sort_matched(market["rare_skills"]):
-                    if s.lower() in res_skills: st.info(f"Bonus: {s}")
-                    else: st.write(f"Optional: {s}")
+                st.markdown("### Rare Skills")
+                for skills in sort_matched(market["rare_skills"]):
+                    if skills.lower() in res_skills: st.info(f"Bonus: {skills}")
+                    else: st.write(f"Optional: {skills}")
 
         with tab2:
             st.markdown("### All Skills Detected on Your Resume")
@@ -167,9 +167,9 @@ def render_dashboard():
                 res_col1, res_col2 = st.columns(2)
                 mid = (len(user_skills) + 1) // 2
                 with res_col1:
-                    for s in user_skills[:mid]: st.success(s)
+                    for skills in user_skills[:mid]: st.success(skills)
                 with res_col2:
-                    for s in user_skills[mid:]: st.success(s)
+                    for skills in user_skills[mid:]: st.success(skills)
             else:
                 st.write("No skills detected.")
 
@@ -183,9 +183,9 @@ def render_dashboard():
                 st.write("You match many requirements, but core gaps exist. Consider focusing on the missing core skills listed in the breakdown.")
             else:
                 st.error(f"### Score: {score}% - Stretch Goal")
-                st.write("This score is below the market average for this role. This description may be inflated. Apply anyway and focus on your ability to learn quickly.")
+                st.write("Your score is below the expectations for this role, but employers dont expect you to know everything, so dont be discouraged to apply.")
             
-            st.info("The Realistic Application Score ignores rare skills that are often part of requirement inflation. Missing them does not lower your score.")
+            st.info("The RIS Score does not penalize missing rare skills. Missing them does not lower your score.")
 
     else:
         st.info("Upload your Resume and Job Description in the sidebar to begin.")
