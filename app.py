@@ -12,7 +12,7 @@ from RIS_Calculator import RIS_calculator
 
 def initialize():
     st.set_page_config(
-        page_title="Hire Honker",
+        page_title="HonkHire",
         page_icon="🪿",
         layout="wide",
         initial_sidebar_state="expanded",
@@ -71,7 +71,7 @@ def initialize():
     }
     </style>
 
-    <h1>🪿 Hire Honker</h1>
+    <h1>🪿 HonkHire</h1>
 
     <div style="
         font-family: 'Space Grotesk', sans-serif;
