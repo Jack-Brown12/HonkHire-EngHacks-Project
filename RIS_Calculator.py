@@ -27,8 +27,9 @@ def RIS_calculator(user_resume_skills, market_analysis):
             score -= 0
 
     if score <= 0: return 0
-       
 
     final_percentage = (score / max_possible_score) * 100
+
+    if final_percentage >= 100: return 100
     
-    return round(max(0, final_percentage), 2)
+    return round(final_percentage, 2)
