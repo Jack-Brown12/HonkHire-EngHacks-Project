@@ -28,7 +28,7 @@ Engineering students often struggle to tell whether they are actually qualified 
 2. Text is extracted from both documents.
 3. Natural Language Processing identifies skills in the job posting and resume.
 4. The system compares the two skill sets.
-5. The app calculates a **match score** and **Resume Intelligence Score (RIS)**.
+5. The app calculates a **match score** and **Relevance Index Score (RIS)**.
 6. Results are displayed in an interactive dashboard.
 
 ## Tech Stack
@@ -70,3 +70,18 @@ streamlit run app.py
 
 Database used for job comparison data:
 https://www.kaggle.com/datasets/ravindrasinghrana/job-description-dataset
+
+## AI Usage
+
+Used ChatGPT 5.1 by OpenAI for
+- skill list hashmap
+- Regex and Spacy's similarity method
+- Finding useful tools and enumerating data on Streamlit
+
+Example of AI Use:
+```
+matcher = PhraseMatcher(nlp.vocab, attr="LOWER") # AI USED WHEN I GOT STUCK READING SPACY DOCUMENTATION
+for skill_name, aliases in SKILLS.items():
+    patterns = [nlp.make_doc(alias) for alias in aliases]
+    matcher.add(skill_name, patterns)
+```
