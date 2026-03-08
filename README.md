@@ -5,7 +5,7 @@ AI used for resume evaluation and comparison:
 
 
 # Hire Honker 🪿
-### Job Posting Analyzer for Waterloo Engineering Students
+### Resume Intelligence Plaform for Waterloo Engineering Students
 
 ## Overview
 Hire Honker helps students understand how well their resume matches a job posting. Users upload a resume PDF and a job posting PDF, and the app extracts skills, compares them, and highlights matched and missing requirements. The goal is to make job applications clearer and easier to evaluate.
