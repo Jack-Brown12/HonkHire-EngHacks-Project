@@ -5,6 +5,7 @@ import re
 
 nlp = spacy.load("en_core_web_sm")
 
+# USED AI TO CREATE TABLE OF MOST COMMON SOFTWARE SKILLS AND SIMILAR SPELLINGS
 SKILLS = {
     "Python": ["python", "py"],
     "Java": ["java"],
@@ -67,7 +68,7 @@ ROLES = [
     "data analyst",
 ]
 
-matcher = PhraseMatcher(nlp.vocab, attr="LOWER")
+matcher = PhraseMatcher(nlp.vocab, attr="LOWER") # AI USED WHEN I GOT STUCK READING SPACY DOCUMENTATION
 for skill_name, aliases in SKILLS.items():
     patterns = [nlp.make_doc(alias) for alias in aliases]
     matcher.add(skill_name, patterns)
@@ -83,7 +84,7 @@ def extract_skills(text: str, fuzzy_threshold: int = 85):
         found_skills.add(skill_name) 
 
     text_lower = text.lower()
-    words = re.findall(r'\b[a-z0-9+#.]+\b', text_lower)
+    words = re.findall(r'\b[a-z0-9+#.]+\b', text_lower) #USED AI TO SEPERATE INDIVIDUAL WORDS WITH CONFUSING REGEX
 
     # 2. Fuzzy Matching
     for skill, aliases in SKILLS.items():
